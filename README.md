@@ -7,7 +7,7 @@
 ## 部署方式
 
 - **Workers** 部署：复制 [_worker.js](https://github.com/cmliu/CF-Workers-docker.io/blob/main/_worker.js) 代码，`保存并部署`即可
-- **Workers** 部署：复制 [_worker2.js]代码，`保存并部署`即可
+- **Workers** 部署：复制 _worker2.js代码，`保存并部署`即可
 - **Pages** 部署：`Fork` 后 `连接GitHub` 一键部署即可
 
 ## 如何使用？ [视频教程](https://www.youtube.com/watch?v=l2jwq9CagNQ)
